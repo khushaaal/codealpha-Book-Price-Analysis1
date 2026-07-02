@@ -68,13 +68,16 @@ python main.py
 The project generates:
 
 - books.csv
-c:\Users\hp\Pictures\Screenshots\Screenshot 2026-07-02 121658.png
+<img width="1918" height="1018" alt="Screenshot 2026-07-02 121658" src="https://github.com/user-attachments/assets/5856f71a-0714-44b0-8c43-e0806cd26f5d" />
+
 
 - graphs/price_distribution.png
-c:\Users\hp\Pictures\Screenshots\price_distribution.png.png
+<img width="1917" height="1021" alt="price_distribution png" src="https://github.com/user-attachments/assets/6e63b4a3-c01e-430c-8b46-1c45aeb1ee74" />
+
 
 - graphs/ratings.png
-c:\Users\hp\Pictures\Screenshots\ratings.png.png
+<img width="1918" height="1020" alt="Screenshot 2026-07-02 121845" src="https://github.com/user-attachments/assets/1fe660bb-6035-401d-b5a2-bc005ae6b2cd" />
+
 
 ---
 
